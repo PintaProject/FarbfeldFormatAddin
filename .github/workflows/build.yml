@@ -23,13 +23,13 @@ jobs:
         dotnet-version: |
           10.0.x
     - name: Merge translations into add-in manifest
-      run: dotnet run --project Pinta/installer/addins/Pinta.AddinUtils.csproj -- localize-manifest --manifest-file PintaDemoExtension/.addin.xml --resource-files PintaDemoExtension/Resources/*.resx
+      run: dotnet run --project Pinta/installer/addins/Pinta.AddinUtils.csproj -- localize-manifest --manifest-file FarbfeldFormatAddin/.addin.xml
     - name: Compile
       run: dotnet build -c Release
     - name: Install mautil
       run: dotnet tool install --global Mono.Addins.UtilTool
     - name: Create Package
-      run: mautil pack PintaDemoExtension/bin/Release/net8.0/PintaDemoExtension.dll
+      run: mautil pack FarbfeldFormatAddin/bin/Release/net10.0/FarbfeldFormatAddin.dll
     - name: Upload Package
       uses: actions/upload-artifact@v6
       with:
