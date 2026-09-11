@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addin id="FarbfeldFormatAddin" version="1.0">
+	<Header>
+		<Name>Farbfeld Format Add-in</Name>
+		<Description>Imports/Exports images from/to the Farbfeld image format</Description>
+		<Author>Lehonti Ramos</Author>
+		<Url>https://github.com/PintaProject/FarbfeldFormatAddin</Url>
+	</Header>
+	<Dependencies>
+		<Addin id="Pinta" version="3.1" />
+	</Dependencies>
+</Addin>

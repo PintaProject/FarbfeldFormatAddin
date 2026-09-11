@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|c:\\users\\lehonti\\desktop\\farbfeldformataddin\\farbfeldformataddin\\farbfeldformatextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|solutionrelative:farbfeldformataddin\\farbfeldformatextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|c:\\users\\lehonti\\desktop\\farbfeldformataddin\\farbfeldformataddin\\farbfeldformataddin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|solutionrelative:farbfeldformataddin\\farbfeldformataddin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|c:\\users\\lehonti\\desktop\\farbfeldformataddin\\farbfeldformataddin\\farbfeldformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|solutionrelative:farbfeldformataddin\\farbfeldformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|c:\\users\\lehonti\\desktop\\farbfeldformataddin\\farbfeldformataddin\\.addin.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{92F7DB0B-B351-BB31-2169-A5F607A7E361}|FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj|solutionrelative:farbfeldformataddin\\.addin.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FarbfeldFormatAddin",
+              "DocumentMoniker": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj",
+              "RelativeDocumentMoniker": "FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj",
+              "ToolTip": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj",
+              "RelativeToolTip": "FarbfeldFormatAddin\\FarbfeldFormatAddin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-11T01:56:37.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FarbfeldFormatExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormatExtension.cs",
+              "RelativeDocumentMoniker": "FarbfeldFormatAddin\\FarbfeldFormatExtension.cs",
+              "ToolTip": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormatExtension.cs",
+              "RelativeToolTip": "FarbfeldFormatAddin\\FarbfeldFormatExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:50:59.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarbfeldFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormat.cs",
+              "RelativeDocumentMoniker": "FarbfeldFormatAddin\\FarbfeldFormat.cs",
+              "ToolTip": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\FarbfeldFormat.cs",
+              "RelativeToolTip": "FarbfeldFormatAddin\\FarbfeldFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:49:45.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".addin.xml",
+              "DocumentMoniker": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\.addin.xml",
+              "RelativeDocumentMoniker": "FarbfeldFormatAddin\\.addin.xml",
+              "ToolTip": "C:\\Users\\Lehonti\\Desktop\\FarbfeldFormatAddin\\FarbfeldFormatAddin\\.addin.xml",
+              "RelativeToolTip": "FarbfeldFormatAddin\\.addin.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-11T01:47:51.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
