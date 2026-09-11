@@ -52,3 +52,7 @@ You should get a `.mpack` file.
 To test the add-in, load the `.mpack` into Pinta using the extension manager.
 
 If you want to share the add-in with the community, go to the [repo for add-ins](https://github.com/PintaProject/Pinta-Community-Addins), look for the appropriate folder inside `repository` and open a pull request adding the `.mpack` inside that folder.
+
+## To-do list
+
+Show how to set up github workflows properly
