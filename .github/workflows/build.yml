@@ -31,7 +31,7 @@ jobs:
     - name: Create Package
       run: mautil pack FarbfeldFormatAddin/bin/Release/net10.0/FarbfeldFormatAddin.dll
     - name: Upload Package
-      uses: actions/upload-artifact@v6
+      uses: actions/upload-artifact@v7
       with:
         path: '*.mpack'
         if-no-files-found: error
